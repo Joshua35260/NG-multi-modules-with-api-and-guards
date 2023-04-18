@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HomeComponent } from './components/home.component';
 import { HomeRoutingModule } from './home-routing.module';
-import { NavbarComponent } from '../core/components/navbar.component';
+import { NavbarComponent } from '../core/components/navbar/navbar.component';
 import { CoreModule } from '../core/core.module';
 
 
